@@ -18,3 +18,5 @@ Imports:
     tidyr,
     rlang,
     brotools
+URL: https://github.com/maskegger/funsmy
+BugReports: https://github.com/maskegger/funsmy/issues
