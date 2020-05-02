@@ -1,0 +1,37 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# funsmy
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Assorted collection of R magic tricks.
+
+## Installation
+
+You can install the development version from Github as follows:
+
+``` r
+remotes::install_github("maskegger/funsmy")
+```
+
+## Example
+
+```{r example}
+library(funsmy)
+## basic example code
+```
+
